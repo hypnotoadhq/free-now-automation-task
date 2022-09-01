@@ -1,0 +1,22 @@
+{
+  "name": "free-now",
+  "version": "1.0.0",
+  "description": "automation task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hypnotoadhq/free-now-automation-task.git"
+  },
+  "author": "Max",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hypnotoadhq/free-now-automation-task/issues"
+  },
+  "homepage": "https://github.com/hypnotoadhq/free-now-automation-task#readme",
+  "dependencies": {
+    "cypress": "^10.7.0"
+  }
+}
